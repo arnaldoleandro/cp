@@ -2,7 +2,7 @@
 reboot of cp project after lost all code
 
 
-###Six years later
+### Six years later
 
 I finally feel like I can continue this side project haha
 I just added a chatgpt definition for the original game.
