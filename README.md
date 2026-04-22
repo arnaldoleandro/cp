@@ -1,5 +1,5 @@
 # cp
-reboot of cp project after lost all code
+reboot of cp project after losing all code
 
 
 ### Six years later
